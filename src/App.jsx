@@ -109,7 +109,7 @@ export default function App() {
             <TypewriterText 
               texts={[
                 "Full-Stack Developer",
-                "MERN Stack Specialist", 
+                "Passionate Full-Stack Learner", 
                 "React Enthusiast",
                 "Problem Solver"
               ]}
