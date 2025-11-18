@@ -5,7 +5,7 @@ import { ParticleBackground } from "./components/ParticleBackground";
 import { ContactForm } from "./components/ContactForm";
 
 const skills = [
-  "JavaScript (ES6+)",
+  "JavaScript ",
   "React.js",
   "Node.js",
   "Express.js",
@@ -25,13 +25,13 @@ const projects = [
     name: "NOU Digital Learning and Assessment System",
     description: "Full-stack MERN application with secure authentication, course enrollment, interactive modules, and automated assessment system.",
     tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
-    link: "https://nou-digital.vercel.app",
+    link: "#",
   },
   {
     name: "UberGo – Online Grocery Store",
     description: "E-commerce app inspired by BigBasket, built with MERN + Tailwind CSS, featuring product catalog, shopping cart, and Stripe payments.",
     tech: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind"],
-    link: "https://ubergo.vercel.app",
+    link: "https://my-portfolio-eight-indol-51.vercel.app/#",
   },
   {
     name: "Portfolio Website",
