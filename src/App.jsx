@@ -21,12 +21,7 @@ const skills = [
 ];
 
 const projects = [
-  {
-    name: "NOU Digital Learning and Assessment System",
-    description: "Full-stack MERN application with secure authentication, course enrollment, interactive modules, and automated assessment system.",
-    tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
-   
-  },
+
   {
     name: "UberGo – Online Grocery Store",
     description: "E-commerce app inspired by BigBasket, built with MERN + Tailwind CSS, featuring product catalog, shopping cart, and Stripe payments.",
@@ -38,6 +33,12 @@ const projects = [
     description: "Personal portfolio website to showcase projects and skills with modern animations and responsive design.",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     link: "#",
+  },
+   {
+    name: "NOU Digital Learning and Assessment System",
+    description: "Full-stack MERN application with secure authentication, course enrollment, interactive modules, and automated assessment system.",
+    tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
+   
   },
 ];
 
