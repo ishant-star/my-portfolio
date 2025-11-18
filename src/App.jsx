@@ -25,7 +25,7 @@ const projects = [
     name: "NOU Digital Learning and Assessment System",
     description: "Full-stack MERN application with secure authentication, course enrollment, interactive modules, and automated assessment system.",
     tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
-    link: "#",
+   
   },
   {
     name: "UberGo – Online Grocery Store",
