@@ -31,7 +31,7 @@ const projects = [
     name: "UberGo – Online Grocery Store",
     description: "E-commerce app inspired by BigBasket, built with MERN + Tailwind CSS, featuring product catalog, shopping cart, and Stripe payments.",
     tech: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind"],
-    link: "https://my-portfolio-eight-indol-51.vercel.app/#",
+    link: "https://urban-go-tawny.vercel.app/",
   },
   {
     name: "Portfolio Website",
